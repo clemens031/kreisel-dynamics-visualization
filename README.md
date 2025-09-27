@@ -1,5 +1,5 @@
 # kreisel-dynamics-visualization
-This project calculates how fast a spinning top (Kreisel) must rotate depending on its nutation angle. Using Euler’s equations, it computes the center of mass, inertia tensor, principal moments, and precession speeds, then visualizes the resulting motion.
+This project calculates how fast a spinning top (Kreisel) must rotate depending on its nutation angle using Euler’s equations.
 
 __Key Features:__  
 Computes required eigen-rotation for a given nutation angle  
